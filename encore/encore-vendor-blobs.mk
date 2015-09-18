@@ -20,7 +20,6 @@ DEVICE_PACKAGE_OVERLAYS += vendor/bn/encore/overlay
 
 # Proprietary Blobs
 PRODUCT_COPY_FILES += \
-    vendor/bn/encore/proprietary/bin/pvrsrvinit:system/bin/pvrsrvinit \
     vendor/bn/encore/proprietary/lib/dsp/g729enc_sn.dll64P:system/lib/dsp/g729enc_sn.dll64P \
     vendor/bn/encore/proprietary/lib/dsp/nbamrdec_sn.dll64P:system/lib/dsp/nbamrdec_sn.dll64P \
     vendor/bn/encore/proprietary/lib/dsp/monitor_tiomap3430.dof64P:system/lib/dsp/monitor_tiomap3430.dof64P \
