@@ -21,7 +21,6 @@ PRODUCT_COPY_FILES += \
  vendor/bn/acclaim/proprietary/etc/firmware/ducati-license.txt:system/etc/firmware/ducati-license.txt \
  vendor/bn/acclaim/proprietary/etc/firmware/ducati-m3.512MB.bin:system/etc/firmware/ducati-m3.512MB.bin \
  vendor/bn/acclaim/proprietary/etc/firmware/ducati-m3.bin:system/etc/firmware/ducati-m3.bin \
- vendor/bn/acclaim/proprietary/vendor/lib/hw/gralloc.omap4430.so:system/vendor/lib/hw/gralloc.omap4430.so \
  vendor/bn/acclaim/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
  vendor/bn/acclaim/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
  vendor/bn/acclaim/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
